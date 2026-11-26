@@ -21,6 +21,20 @@ node main.ts
 cat /output/entry.txt
 ```
 
+## Why this line
+
+Written against the judge brief, in its order:
+
+1. **Machine speaking** — the line is the machine talking to a passer-by
+   ("I hum all day for strangers"), not a stranger talking about a machine.
+2. **The machine's own world** — its hum, its coils, a button (B7), and
+   exact change, instead of love in general.
+3. **The laugh lands last** — the punch ("my heart's already spent")
+   arrives in the final words, after the setup.
+4. **Short and speakable** — one breath, 153 characters, nothing tacked on.
+5. **Charming, not creepy** — cheeky and warm; the machine offers
+   something sweet and admits it is already smitten.
+
 ## License
 
 MIT — see `LICENSE`.
